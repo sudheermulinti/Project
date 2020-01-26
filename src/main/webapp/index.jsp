@@ -5,7 +5,7 @@
 <title>Index Page</title>
 </head>
 <body>
-<h1>Second Server</h1>
+<h1>Welcome to my Page</h1>
 <form method="get" action="hello">
 Name:
 <input type = "text" name="name" ><br>
